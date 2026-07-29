@@ -1,9 +1,9 @@
 const projects = [
   {
-    title: 'UNDER CONSTRUCTION',
-    description: 'Coming soon!',
-    github: 'https://github.com/yourusername/ecommerce-ui',
-    live: 'https://yourwebsite.com/weather-dashboard',
+    title: 'The Realty Group',
+    description: 'A modern, responsive Real Estate website ',
+    github: 'https://github.com/stevelomax1/realestateproj',
+    live: 'https://the-realty-group.vercel.app',
   },
   {
     title: 'UNDER CONSTRUCTION',
@@ -38,7 +38,7 @@ export default function App() {
 
   {/* DESCRIPTION */}
   <p className="text-gray-300 text-lg leading-relaxed max-w-2xl mb-10">
-    I love to build. I love to create. I love to see ideas come to life. Hello World, I'm here!
+    I love to build. I love to create. I love to see ideas come to life. Hello World, I'm here and I'm ready.
   </p>
 
   {/* BUTTONS */}
