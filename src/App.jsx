@@ -1,7 +1,7 @@
 const projects = [
   {
     title: 'The Realty Group',
-    description: 'A modern, responsive Real Estate website ',
+    description: 'A modern, responsive, fictional real estate company website ',
     github: 'https://github.com/stevelomax1/realestateproj',
     live: 'https://the-realty-group.vercel.app',
   },
