@@ -42,7 +42,7 @@ export default function App() {
         {/* BUTTONS */}
         <div className="flex flex-wrap justify-center gap-4">
           <a
-            href="SL Front End Resume 26.pdf"
+            href="SL Front End Resume.pdf"
             target="_blank"
             className="bg-white text-black px-6 py-3 rounded-lg font-semibold hover:bg-gray-300 transition"
           >
