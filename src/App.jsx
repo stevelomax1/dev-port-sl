@@ -7,9 +7,9 @@ const projects = [
   },
   {
     title: "SCREENA",
-    description: "Coming soon!",
-    github: "https://github.com/yourusername/ecommerce-ui",
-    live: "https://yourwebsite.com/ecommerce-ui",
+    description: "A responsive application for discovering movies and TV shows",
+    github: "https://github.com/stevelomax1/the-screena",
+    live: "https://screena-alpha.vercel.app",
   },
 ];
 
