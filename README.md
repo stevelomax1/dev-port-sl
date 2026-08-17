@@ -22,7 +22,7 @@ My goal is to continue growing as a developer while building applications that c
 
 ## 🚀 Featured Projects
 
-## 🏡 The Realty Group
+### 🏡 The Realty Group
 
 A modern and responsive real estate website designed to provide users with an intuitive way to browse properties and learn about real estate services.
 
@@ -40,7 +40,7 @@ Built With: React, JavaScript, CSS, React Router, Vite
 
 View Project • https://github.com/stevelomax1/realestateproj
 
-## 🎬 Screena
+### 🎬 Screena
 
 A responsive movie and television discovery application powered by live data from The Movie Database (TMDB) API.
 
