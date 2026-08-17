@@ -35,8 +35,9 @@ export default function App() {
 
         {/* DESCRIPTION */}
         <p className="text-gray-300 text-lg leading-relaxed max-w-2xl mb-10">
-          I love to build and create. There is nothing greater than seeing ideas come to life. Let's fix whats broken.
-          Hello World, I'm here and I'm ready.
+          I love to build and create. There is nothing greater than seeing ideas
+          come to life. Let's fix whats broken. Hello World, I'm here and I'm
+          ready.
         </p>
 
         {/* BUTTONS */}
