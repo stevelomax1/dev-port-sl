@@ -46,6 +46,10 @@ A responsive movie and television discovery application powered by live data fro
 
 Users can discover trending entertainment, search thousands of titles, explore detailed movie and TV information, watch trailers, and save favorites.
 
+Built With: React, JavaScript, CSS, React Router, Axios, TMDB API, Vite
+
+View Project • https://github.com/stevelomax1/the-screena
+
 ## ✨ Features
 
 - 🎬 Trending Movies
@@ -56,10 +60,6 @@ Users can discover trending entertainment, search thousands of titles, explore d
 - ❤️ Favorites with Local Storage
 - 🔁 Similar Movie & TV Recommendations
 - 📱 Responsive Design
-
-Built With: React, JavaScript, CSS, React Router, Axios, TMDB API, Vite
-
-View Project • https://github.com/stevelomax1/the-screena
 
 ## 🛠️ Tech Stack
 
