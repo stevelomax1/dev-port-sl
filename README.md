@@ -6,11 +6,11 @@ A responsive front-end developer portfolio showcasing my projects, technical ski
 
 Portfolio Homepage
 
-./screenshots/homepage.png
+![Portfolio Homepage](./screenshots/homepage.png)
 
 Projects Section
 
-./projects/projects.png
+![Projects Section](./screenshots/projects.png)
 
 🌐 Live Portfolio
 
