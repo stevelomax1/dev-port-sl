@@ -1,18 +1,18 @@
-💻 Steve Lomax | Front-End Developer Portfolio
+# 💻 Steve Lomax | Front-End Developer Portfolio
 
 A responsive front-end developer portfolio showcasing my projects, technical skills, and experience building modern web applications with React, JavaScript, HTML, and CSS.
 
 ## 📸 Preview
 
-# Portfolio Homepage
+Portfolio Homepage
 
 (./screenshots/homepage.png)
 
-# Projects Section
+Projects Section
 
 (./screenshots/projects.png)
 
-# 🌐 Live Portfolio
+## 🌐 Live Portfolio
 
 www.stevenlomax.com
 
